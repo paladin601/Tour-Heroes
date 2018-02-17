@@ -1,3 +1,16 @@
+#Install and Run
+Donwload the Zip, Decompress ,go to a folder where you unzipped
+
+    cd "folder"
+
+You need install nodejs
+
+    npm install 
+
+and run server in port 4200 ( localhost:4200 )
+
+    ng serve
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
