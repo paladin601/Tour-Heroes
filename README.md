@@ -1,4 +1,5 @@
-#Install and Run
+# Install and Run
+
 Donwload the Zip, Decompress ,go to a folder where you unzipped
 
     cd "folder"
